@@ -1,0 +1,37 @@
+_repo: From-the-Easy-Chair-series-3_36090
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Curtis, George William
+    birthdate: 1824
+    deathdate: 1892
+    gutenberg_agent_id: '2048'
+    url: http://www.gutenberg.org/2009/agents/2048
+    wikipedia: http://en.wikipedia.org/wiki/George_William_Curtis
+description: ''
+gutenberg_issued: '2011-05-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36090'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'American essays'
+tableOfContents: Hawthorne and Brook Farm -- Beecher in his pulpit after the death
+  of Lincoln -- Killing deer -- Autumn days -- From Como to Milan during the war of
+  1848 -- Herbert Spencer on the Yankee -- Honor -- Joseph Wesley Harper -- Review
+  of Union troops, 1865 -- April, 1865 -- Washington in 1867 -- Reception to the Japanese
+  ambassadors at the White House -- The maid and the wit -- The departure of the Great
+  Eastern -- Church Street -- Historic buildings -- The Boston Music Hall -- Public
+  benefactors -- Mr. Tibbins's New-Year's call -- The New England Sabbath -- The reunion
+  of antislavery veterans, 1884 -- Reform charity -- Bicycle riding for children --
+  The dead bird upon Cyrilla's hat an encouragement of "slarter" -- Cheapening his
+  name -- Clergymen's salaries.
+title: From the Easy Chair, Volume 3
+url: http://www.gutenberg.org/ebooks/36090
